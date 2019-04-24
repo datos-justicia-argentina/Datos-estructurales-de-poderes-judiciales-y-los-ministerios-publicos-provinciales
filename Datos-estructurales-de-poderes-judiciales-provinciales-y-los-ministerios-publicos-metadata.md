@@ -1,7 +1,7 @@
 Datos estructurales de poderes judiciales provinciales y los ministerios públicos
 =================================================================================
 
-En este conjunto de datos se muestran los datos estructurales (edilicios y humanos) de los poderes judiciales y los ministerios públicos provinciales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf).
+En este conjunto de datos se muestran los datos estructurales (edilicios y humanos) de los poderes judiciales y los ministerios públicos provinciales remitidos según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf).
 
 http://datos.jus.gob.ar/dataset/datos-estructurales-de-poderes-judiciales-provinciales-y-los-ministerios-publicos
 
@@ -21,7 +21,7 @@ Características
 
 -   **Grupo:** Instituciones de Justicia
 
--   **Frecuencia de Actualización:** Eventual
+-   **Frecuencia de Actualización:** Anualmente
 
 Recursos disponibles
 --------------------
@@ -38,31 +38,39 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales publicados, según la codificación implementada por INDEC
+-   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales informados, según la codificación implementada por INDEC
 
--   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales publicados
+-   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales informados
 
--   **institucion_sistema_justicia (string):** nombre de la institución del sistema de justicia a la que pertenecen los datos estructurales publicados
+-   **institucion_sistema_justicia (string):** nombre de la institución del sistema de justicia a la que pertenecen los datos estructurales informados
 
--   **circunscripcion_codigo (string):** código de la circunscripción a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **circunscripcion_codigo (string):** código de la circunscripción a la que pertenecen los datos estructurales informados
 
--   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenecen los datos estructurales informados
 
--   **unidad_codigo (string):** código de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **unidad_codigo (string):** código de la unidad a la que pertenecen los datos estructurales informados
 
--   **unidad_descripcion (string):** descripción de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **unidad_descripcion (string):** descripción de la unidad a la que pertenece la institución del sistema de justicia a la que pertenecen los datos estructurales informados
 
--   **unidad_ubicacion_geografica (string):** ubicación geográfica de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **unidad_ubicacion_geografica (string):** ubicación geográfica de la unidad informada
 
--   **unidad_latitud (string):** latitud geográfica en la que se encuentra de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **unidad_latitud (string):** latitud geográfica de la unidad informada
 
--   **unidad_longitud (string):** longitud geográfica en la que se encuentra de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
+-   **unidad_longitud (string):** longitud geográfica de la unidad informada
 
--   **variable_descripcion (string):**
+-   **variable (string):** Nombre de la variable informada. Puede tomar los valores:
+                  Edificios alquilados
+                  Edificios comodato
+                  Edificios propios
+                  Superficie cubierta alquilada metros cuadrados
+                  Superficie cubierta comodato metros cuadrados
+                  Superficie cubierta propia metros cuadrados
+                  Computadoras
+                  Computadoras conectadas
 
--   **cantidad (int):**
+-   **cantidad (int):** unidades de la variable informada
 
--   **actualizacion_anio (int):** corresponde al año informado por la institución del sistema de justicia que publica los datos estructurales
+-   **actualizacion_anio (int):** indica el año al cual corresponde la infraestuctura informada
 
 ### Recursos Humanos - AAAA
 
@@ -76,21 +84,48 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados, según la codificación implementada por INDEC
+-   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados, según la codificación implementada por INDEC
 
--   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados
+-   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados
 
--   **institucion_sistema_justicia (string):** nombre de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados
+-   **institucion_sistema_justicia (string):** nombre de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados
 
--   **circunscripcion_codigo (string):** código de la circunscripción a la que pertenece la institución del sistema de justicia que publica los datos de recursos humanos publicados
+-   **circunscripcion_codigo (string):** código de la circunscripción a la que pertenecen los datos de recursos humanos informados
 
--   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenece la institución del sistema de justicia que publica datos de recursos humanos
+-   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenecen los datos de recursos humanos informados
 
--   **variable_descripcion (string):**
+-   **variable (string):** nombre de la variable informada. Puede tomar los valores:
+        Cantidad de asesoras mujeres
+        Cantidad de asesores hombres
+        Cantidad de defensores hombres
+        Cantidad de defensores mujeres
+        Cantidad de empleados técnicos y administrativos hombres
+        Cantidad de empleados técnicos y administrativos mujeres
+        Cantidad de fiscales hombres
+        Cantidad de fiscales mujeres
+        Cantidad de funcionarios hombres
+        Cantidad de funcionarios mujeres
+        Cantidad de jueces de 1ra instancia hombres
+        Cantidad de jueces de 1ra instancia mujeres
+        Cantidad de jueces de casación hombres
+        Cantidad de jueces de casación mujeres
+        Cantidad de jueces de cámara o apelación hombres
+        Cantidad de jueces de cámara o apelación mujeres
+        Cantidad de jueces de paz legos hombres
+        Cantidad de jueces de paz legos mujeres
+        Cantidad de jueces de paz letrados hombres
+        Cantidad de jueces de paz letrados mujeres
+        Cantidad de ministros o vocales de altos tribunales hombres
+        Cantidad de ministros o vocales de altos tribunales mujeres
+        Cantidad de personal de servicio hombres
+        Cantidad de personal de servicio mujeres
+        Cantidad legal de vocales del consejo de la magistratura vacantes
+        Cantidad real de vocales del consejo de la magistratura hombres
+        Cantidad real de vocales del consejo de la magistratura mujeres
 
--   **cantidad (int):**
+-   **cantidad (int):** unidades de la variable informada
 
--   **actualizacion_anio (int):**
+-   **actualizacion_anio (int):** indica el año al cual corresponden los recursos humanos informados
 
 ### Notas
 
