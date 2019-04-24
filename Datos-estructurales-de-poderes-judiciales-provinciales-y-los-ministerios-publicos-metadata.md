@@ -60,14 +60,21 @@ Recursos disponibles
 
 -   **variable (string):** Nombre de la variable informada. Puede tomar los valores:
 
-  -   Edificios alquilados
-                  Edificios comodato
-                  Edificios propios
-                  Superficie cubierta alquilada metros cuadrados
-                  Superficie cubierta comodato metros cuadrados
-                  Superficie cubierta propia metros cuadrados
-                  Computadoras
-                  Computadoras conectadas
+    -	Edificios alquilados
+	
+	-	Edificios comodato
+	
+	-	Edificios propios
+	
+	-	Superficie cubierta alquilada metros cuadrados
+	
+	-	Superficie cubierta comodato metros cuadrados
+	
+	-	Superficie cubierta propia metros cuadrados
+	
+	-	Computadoras
+	
+	-	Computadoras conectadas
 
 -   **cantidad (int):** unidades de la variable informada
 
@@ -96,33 +103,60 @@ Recursos disponibles
 -   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenecen los datos de recursos humanos informados
 
 -   **variable (string):** nombre de la variable informada. Puede tomar los valores:
-        Cantidad de asesoras mujeres
-        Cantidad de asesores hombres
-        Cantidad de defensores hombres
-        Cantidad de defensores mujeres
-        Cantidad de empleados técnicos y administrativos hombres
-        Cantidad de empleados técnicos y administrativos mujeres
-        Cantidad de fiscales hombres
-        Cantidad de fiscales mujeres
-        Cantidad de funcionarios hombres
-        Cantidad de funcionarios mujeres
-        Cantidad de jueces de 1ra instancia hombres
-        Cantidad de jueces de 1ra instancia mujeres
-        Cantidad de jueces de casación hombres
-        Cantidad de jueces de casación mujeres
-        Cantidad de jueces de cámara o apelación hombres
-        Cantidad de jueces de cámara o apelación mujeres
-        Cantidad de jueces de paz legos hombres
-        Cantidad de jueces de paz legos mujeres
-        Cantidad de jueces de paz letrados hombres
-        Cantidad de jueces de paz letrados mujeres
-        Cantidad de ministros o vocales de altos tribunales hombres
-        Cantidad de ministros o vocales de altos tribunales mujeres
-        Cantidad de personal de servicio hombres
-        Cantidad de personal de servicio mujeres
-        Cantidad legal de vocales del consejo de la magistratura vacantes
-        Cantidad real de vocales del consejo de la magistratura hombres
-        Cantidad real de vocales del consejo de la magistratura mujeres
+
+	-	Cantidad de asesoras mujeres
+	
+	-	Cantidad de asesores hombres
+	
+	-	Cantidad de defensores hombres
+	
+	-	Cantidad de defensoras mujeres
+	
+	-	Cantidad de empleados técnicos y administrativos hombres
+	
+	-	Cantidad de empleadas técnicas y administrativas mujeres
+	
+	-	Cantidad de fiscales hombres
+	
+	-	Cantidad de fiscales mujeres
+	
+	-	Cantidad de funcionarios hombres
+	
+	-	Cantidad de funcionarias mujeres
+	
+	-	Cantidad de jueces de 1ra instancia hombres
+	
+	-	Cantidad de juezas de 1ra instancia mujeres
+	
+	-	Cantidad de jueces de casación hombres
+	
+	-	Cantidad de juezas de casación mujeres
+	
+	-	Cantidad de jueces de cámara o apelación hombres
+	
+	-	Cantidad de juezas de cámara o apelación mujeres
+	
+	-	Cantidad de jueces de paz legos hombres
+	
+	-	Cantidad de juezas de paz legos mujeres
+	
+	-	Cantidad de jueces de paz letrados hombres
+	
+	-	Cantidad de juezas de paz letrados mujeres
+	
+	-	Cantidad de ministros o vocales de altos tribunales hombres
+	
+	-	Cantidad de ministros o vocales de altos tribunales mujeres
+	
+	-	Cantidad de personal de servicio hombres
+	
+	-	Cantidad de personal de servicio mujeres
+	
+	-	Cantidad legal de vocales del consejo de la magistratura vacantes
+	
+	-	Cantidad real de vocales del consejo de la magistratura hombres
+	
+	-	Cantidad real de vocales del consejo de la magistratura mujeres
 
 -   **cantidad (int):** unidades de la variable informada
 
