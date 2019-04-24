@@ -48,27 +48,27 @@ Recursos disponibles
 
 -   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
--   **unidad_codigo (string):**
+-   **unidad_codigo (string):** código de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
--   **unidad_descripcion (string):**
+-   **unidad_descripcion (string):** descripción de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
--   **unidad_ubicacion_geografica (string):**
+-   **unidad_ubicacion_geografica (string):** ubicación geográfica de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
--   **unidad_latitud (string):**
+-   **unidad_latitud (string):** latitud geográfica en la que se encuentra de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
--   **unidad_longitud (string):**
+-   **unidad_longitud (string):** longitud geográfica en la que se encuentra de la unidad a la que pertenece la institución del sistema de justicia que publica los datos estructurales
 
 -   **variable_descripcion (string):**
 
 -   **cantidad (int):**
 
--   **actualizacion_anio (int):**
+-   **actualizacion_anio (int):** corresponde al año informado por la institución del sistema de justicia que publica los datos estructurales
 
 ### Recursos Humanos - AAAA
 
 -   **Nombre:** recursos-humanos-AAAA.csv
 
--   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones de justicia correspondientes al año AAAA respecto a la cantidad de integrantes en actividad en los ministerios públicos y poderes judiciales provinciales
+-   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones del sistema de justicia correspondientes al año AAAA respecto a la cantidad de integrantes en actividad en los ministerios públicos y poderes judiciales provinciales
 
 -   **Formato:** CSV
 
@@ -76,15 +76,15 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):**
+-   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados, según la codificación implementada por INDEC
 
--   **provincia_nombre (string):**
+-   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados
 
--   **institucion_sistema_justicia (string):**
+-   **institucion_sistema_justicia (string):** nombre de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos publicados
 
--   **circunscripcion_codigo (string):**
+-   **circunscripcion_codigo (string):** código de la circunscripción a la que pertenece la institución del sistema de justicia que publica los datos de recursos humanos publicados
 
--   **circunscripcion_descripcion (string):**
+-   **circunscripcion_descripcion (string):** descripción de la circunscripción a la que pertenece la institución del sistema de justicia que publica datos de recursos humanos
 
 -   **variable_descripcion (string):**
 
@@ -101,4 +101,3 @@ Recursos disponibles
 [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión I](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
 
 [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf)
-
