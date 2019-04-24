@@ -9,7 +9,7 @@ http://datos.jus.gob.ar/dataset/datos-estructurales-de-poderes-judiciales-provin
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 24/04/2019
 
 -   **Tags o Etiquetas:** Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autónoma de Buenos Aires, Corrientes Córdoba, Entre Ríos Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego, Tucumán, datos estructurales, infraestructura, instituciones, ministerios públicos, poderes judiciales, recursos humanos
 
