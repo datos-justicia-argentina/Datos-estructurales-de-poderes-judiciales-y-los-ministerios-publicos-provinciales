@@ -30,11 +30,11 @@ Recursos disponibles
 
 -   **Nombre:** datos-estructurales-AAAA.csv
 
--   **Descripción del contenido:** Contiene los archivos de los datos estructurales correspondientes al año AAAA remitidos por los poderes judiciales y los ministerios públicos de cada provincia.
+-   **Descripción del contenido:** Contiene los archivos de los datos estructurales correspondientes al año AAAA remitidos por los poderes judiciales y ministerios públicos provinciales.
 
 -   **Formato:** CSV
 
--   **Rango temporal:** datos estructurales de los poderes judiciales y los ministerios públicos correspondientes al año AAAA
+-   **Rango temporal:** datos estructurales de los poderes judiciales y ministerios públicos correspondientes al año AAAA
 
 ### Campos del recurso
 
@@ -84,7 +84,7 @@ Recursos disponibles
 
 -   **Nombre:** recursos-humanos-AAAA.csv
 
--   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones del sistema de justicia correspondientes al año AAAA respecto a la cantidad de integrantes en actividad en los ministerios públicos y poderes judiciales provinciales
+-   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones del sistema de justicia correspondientes al año AAAA respecto a la cantidad de integrantes en actividad en los poderes judiciales y ministerios públicos provinciales
 
 -   **Formato:** CSV
 
