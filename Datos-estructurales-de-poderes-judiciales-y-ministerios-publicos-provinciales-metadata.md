@@ -80,11 +80,11 @@ Recursos disponibles
 
 -   **actualizacion_anio (int):** indica el año al cual corresponde la infraestuctura informada
 
-### Recursos Humanos - AAAA
+### Recursos humanos - AAAA
 
 -   **Nombre:** recursos-humanos-AAAA.csv
 
--   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones del sistema de justicia correspondientes al año AAAA respecto a la cantidad de integrantes en actividad en los poderes judiciales y ministerios públicos provinciales
+-   **Descripción del contenido:** Contiene los archivos remitidos por las distintas instituciones del sistema de justicia en el año AAAA respecto a la cantidad de integrantes en actividad en los poderes judiciales y ministerios públicos provinciales.
 
 -   **Formato:** CSV
 
