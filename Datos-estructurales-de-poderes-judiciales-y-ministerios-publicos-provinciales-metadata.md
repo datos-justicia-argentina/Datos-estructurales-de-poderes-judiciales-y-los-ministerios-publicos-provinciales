@@ -38,7 +38,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales informados, según la codificación implementada por INDEC
+-   **provincia_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales informados, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos estructurales informados
 
@@ -92,7 +92,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados, según la codificación implementada por INDEC
+-   **provincia_id (string):** código de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia de la institución del sistema de justicia a la que pertenecen los datos de recursos humanos informados
 
