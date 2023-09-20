@@ -1,7 +1,7 @@
 Datos estructurales de poderes judiciales y ministerios públicos provinciales
 =================================================================================
 
-En este conjunto de datos se muestran los datos estructurales (edilicios, informáticos y humanos) de los poderes judiciales y ministerios públicos provinciales remitidos según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf) (tablaA y tablaB1).
+En este conjunto de datos se muestran los datos estructurales (edilicios, informáticos y humanos) de los poderes judiciales y ministerios públicos provinciales remitidos según lo establecido en el Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia (tablaA y tablaB1).
 
 http://datos.jus.gob.ar/dataset/datos-estructurales-de-poderes-judiciales-y-ministerios-publicos-provinciales
 
@@ -171,3 +171,6 @@ Recursos disponibles
 [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión I](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf)
 
 [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf)
+
+[Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión III](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-III/blob/main/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Inertjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20III.pdf)
+
